@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "db-init": "createdb sequelize_stretchTwo",
-    "postinstall": "npm run db-init",
     "test": "./node_modules/.bin/jest",
     "test:watch": "./node_modules/.bin/jest --watchAll"
   },

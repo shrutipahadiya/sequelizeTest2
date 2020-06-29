@@ -13,5 +13,6 @@ The following resources are allowed:
 1. **Fork** this repo
 2. Make sure your postgres is running.
 3. `npm install`
-4. `npm test:watch`
-5. Work in `/pumpkin.js`
+4. Create database "sequelize_stretchTwo"
+5. `npm test:watch`
+6. Work in `/pumpkin.js`
